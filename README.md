@@ -1,0 +1,1 @@
+# vue-asp-core-mysql-template
